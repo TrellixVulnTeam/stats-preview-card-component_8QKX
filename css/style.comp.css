@@ -14,12 +14,18 @@ html {
   @media only screen and (max-width: 62.5em) {
     html {
       font-size: 50%; } }
+  @media only screen and (max-width: 31.25em) {
+    html {
+      font-size: 40%; } }
 
 body {
   background: #090b1a; }
   @media only screen and (max-width: 62.5em) {
     body {
       height: 140rem; } }
+  @media only screen and (max-width: 31.25em) {
+    body {
+      height: 190rem; } }
 
 .card {
   background: #1b1938;
